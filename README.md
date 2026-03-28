@@ -12,9 +12,10 @@ Commerce student at Queen's University with a specialization in Finance, seeking
 - First-year foundational curriculum
 
 ### British Columbia High School Diploma — Burnaby Mountain Secondary School, Burnaby, BC *(2020 – 2025)*
-- Honor Roll Awards
-- Academic Achievement Award
-- Enthusiasm for Learning Award
+- Honor Roll Awards — [View](asset/Honour%20Roll%20Award.jpg)
+- Academic Achievement Award — [View](asset/Academic%20Achievement%20Award.jpg)
+- Enthusiasm for Learning Award — [View](asset/enthusiasm%20for%20learning.jpg)
+- *Franc de la Classe* Award (French) — [View](asset/Franco%20de%20la%20classse.jpg)
 
 ---
 
@@ -29,6 +30,8 @@ Commerce student at Queen's University with a specialization in Finance, seeking
 - Co-founded and led a student-run business selling handmade vegan soaps, generating $84.53 in net income
 - Organized biweekly team meetings, delegated responsibilities, and developed business strategy
 - Directed all profits to BC Children's Hospital, demonstrating social responsibility alongside entrepreneurship
+
+  [JA Program Certificate](asset/JA%20Certificate.png)
 
 ### Participant — Wharton Global Youth Investment Competition, Richmond, BC *(2024)*
 - Collaborated with peers to propose investment strategies
@@ -58,3 +61,4 @@ Commerce student at Queen's University with a specialization in Finance, seeking
 ## Additional Information
 - **Languages:** English (fluent), French (fluent), Mandarin (conversational)
 - **Interests:** Basketball, biking, ice skating, cars, aircraft, macroeconomic policy, geopolitics, and history
+

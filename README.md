@@ -9,7 +9,7 @@ Commerce student at Queen's University with a specialization in Finance, seeking
 ### Bachelor of Commerce — Smith School of Business, Queen's University, Kingston, ON *(2025 – Present)*
 - Intended area of specialization: **Finance**
 - Commitment 1992 Award recipient
-- First-year foundational curriculum
+- First-year foundational curriculum including Accounting, Economics, Statistics & Mathematical Analysis etc.
 
 ### British Columbia High School Diploma — Burnaby Mountain Secondary School, Burnaby, BC *(2020 – 2025)*
 - Honor Roll Awards — [View](asset/Honour%20Roll%20Award.jpg)

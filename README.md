@@ -4,7 +4,7 @@ Commerce student at Queen's University
 
 Intended Specialization: Finance 
 
-Seeking opportunities to apply analytical skills in valuation, project controls, and market entry strategy
+Seeking opportunities to apply analytical skills in valuation, project controls, and business strategy
 
 ---
 

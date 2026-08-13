@@ -34,18 +34,21 @@ Seeking opportunities to apply analytical skills in valuation, project controls,
 - QGCC (Queen's Global China Connections) — CTExcel Strategy Case: Developed an expansion strategy for a major Asia-Pacific telecommunications brand. Leveraged conversational Mandarin and a diagnostic mindset to navigate cross-border regulatory and market-entry challenges.
 - ICBC (Inter-Collegiate Business Competition) - Tesla Strategy Case: Competed in Canada's premier undergraduate case competition, solving high-pressure operational challenges under tight deadlines. Developed a diversification strategy for Tesla to compete more effectively with foreign electric vehicle manufacturers. Focused on synthesizing vast data sets into actionable business pivots.
 
+### Program Facilitator - Junior Achievement of British Columbia, Surrey, BC *(2026)*
+- Selected to facilitate high impact modules on financial literacy, economics, and career preparation to students
+- Coordinated directly with JA administrators and educators to adapt delivery to enhance interaction
+- Presented complex topics from commerce in an accessible way to encourage student participation and spark interest in business
+
+---
+
+## Extracurricular Experience
+
 ### Vice President of Sales — Junior Achievement Student Company Program, Richmond, BC *(2024)*
 - Co-founded and led a student-run business selling handmade vegan soaps, generating $84.53 in net income
 - Organized biweekly team meetings, delegated responsibilities, and developed business strategy
 - Directed all profits to BC Children's Hospital, demonstrating discipline and social responsibility alongside entrepreneurship
 
   [JA Program Certificate](asset/JA%20Certificate.png)
-
-
-
----
-
-## Extracurricular Experience
 
 ### Member — Constituency Youth Council, Burnaby North–Seymour, Burnaby, BC *(2023 – 2024)*
 - Assisted the Member of Parliament in events, parades, and enhancing community involvement

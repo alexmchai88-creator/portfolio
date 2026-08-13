@@ -12,7 +12,7 @@ Seeking opportunities to apply analytical skills in valuation, project controls,
 
 ### Bachelor of Commerce — Smith School of Business, Queen's University, Kingston, ON *(2025 – Present)*
 - Intended area of specialization: **Finance**
-- Commitment 1992 Award recipient
+- Commerce Commitment 1992 Admission Award recipient
 - Relevant Coursework: Managerial Accounting (COMM 112), Managerial Economics (COMM 172), Managerial Statistics (COMM 162), Mathematical Analysis (COMM 161)
 
 ### British Columbia High School Diploma — Burnaby Mountain Secondary School, Burnaby, BC *(2020 – 2025)*
@@ -60,6 +60,13 @@ Seeking opportunities to apply analytical skills in valuation, project controls,
 ---
 
 ## Technical Projects
+
+### J.P. Morgan Investment Banking Virtual Experience (Forage) | Participant
+- M&A Target Screening: Executed simulated strategic fit assessments to identify and evaluate M&A target candidates for corporate clients.
+- DCF Valuation: Constructed a Discounted Cash Flow (DCF) model to estimate target enterprise value, running sensitivity analyses across WACC and terminal growth rates on an imaginary company.
+- Client Deliverables: Prepared an executive summary pitch deck outlining transaction rationale, capital structure implications, and valuation outputs.
+
+  [J.P Morgan Investment Banking Certificate]
 
 ### Programming Video Game with Python
 - Utilizing the PyGame library, crafted an object-oriented Pong Game that leverages advanced functions such as draw_start_screen, tictactoe_game, and pong_game

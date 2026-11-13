@@ -86,6 +86,26 @@ Participant | July 2026 | Simulation
   [Pong Game Code](https://github.com/alexchai2024/portfolio/blob/main/Coding/Video%20Game%20Pong%20with%20Python.py)
 
 ---
+## Licenses & Certifications
+These certifications and virtual job simulations complement my coursework and investment research. Forage programmes are independent, simulated learning experiences—not employment or internships with the named firms.
+Credential	Issuer	Completed	Certificate
+Bloomberg Market Concepts (BMC)	Bloomberg	October 2026	[View certificate] (asset/certificates/Bloomberg_Market_Concepts.pdf)
+Investment Banking and Buy-Side Preparation Program	Smith School of Business, Queen's University	April 2026	Programme completion
+Demystifying Private Equity Job Simulation	Vista Equity Partners / Forage	August 2026	[View certificate](asset/certificates/Vista_Equity_Partners_Private_Equity_Forage.pdf)
+Commercial Banking Job Simulation	Wells Fargo / Forage	August 2026	[View certificate](asset/certificates/Wells_Fargo_Commercial_Banking_Forage.pdf)
+Operations Job Simulation	Goldman Sachs / Forage	August 2026	[View certificate](asset/certificates/Goldman_Sachs_Operations_Forage.pdf)
+
+
+The JPMorganChase Investment Banking Job Simulation (July 2026) is described in Selected Finance & Strategy Projects, with its certificate linked there to avoid duplication.
+<details>
+<summary>Credential IDs</summary>- Bloomberg Market Concepts: xrWnUgE7zKHMWp6VaNtSQZuV
+- Goldman Sachs Operations (Forage): 6a7f991aaa694bdf896aa5fe
+- Wells Fargo Commercial Banking (Forage): 6a7ca26cccef9c0356280157
+- Vista Equity Partners Private Equity (Forage): 6a7dd769cca7d67fa60cc5f4
+- JPMorganChase Investment Banking (Forage): 6a67ed0da9bb5a2e1e1b13fb
+</details> 
+
+---
 
 ## Education
 
